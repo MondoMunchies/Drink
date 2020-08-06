@@ -68,7 +68,7 @@ input[type=text]:focus {
 </head>
 <body>
 
-<h2 style="text-align:center">Product Card</h2>
+<h2 style="text-align:center">Faygo</h2>
 
 <div class="card">
   <img src="https://assets3.thrillist.com/v1/image/1896535/1000x666.6666666666666/flatten;crop;jpeg_quality=70" alt="Sad Drinks" style="width:100%">
@@ -114,7 +114,7 @@ input[type=text]:focus {
 </head>
 <body>
 
-<h2 style="text-align:center">Product Card</h2>
+<h2 style="text-align:center">Faygo</h2>
 
 <div class="card">
   <img src="https://images-na.ssl-images-amazon.com/images/I/91Z3AQKW8kL._SY679_.jpg">
