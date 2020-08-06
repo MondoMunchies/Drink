@@ -72,9 +72,9 @@ input[type=text]:focus {
 
 <div class="card">
   <img src="https://assets3.thrillist.com/v1/image/1896535/1000x666.6666666666666/flatten;crop;jpeg_quality=70" alt="Sad Drinks" style="width:100%">
-  <h1>Sadly There Are No Drinks</h1>
+  <h1>Rasberry Blueberry Faygo</h1>
   <p class="price">$5.00</p>
-  <p>Great Taste Comes Wit Great Price!</p>
+  <p>Let me guess.. you like lil mosey</p>
   <p><button>Add to Cart</button></p>
 </div>
 
