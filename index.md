@@ -76,7 +76,7 @@ input[type=text]:focus {
   <p class="price">$5.00</p>
   <p>Let me guess.. you like lil mosey</p>
   <p><button>Add to Cart</button></p>
-</div>
+</div> <br>
 
 
 <html>
